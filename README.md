@@ -1,13 +1,13 @@
 ## Technical Minecraft Box (Client)
-**A lightweight optimization, utility and more for fabric Client**
+**A lightweight Fabric modpack featuring performance optimizations, technical utilities, and quality-of-life for Minecraft.**
 
-This is optimization, utility, Quality of Life modpack
-This modpack did not effect any Vanilla game Mechanics in anyway
+
+This pack adds essential tools for technical survival. It improves performance and provides building and inventory management features without changing vanilla game mechanics.
 
 ### Features
-* **Performance Optimization:**
-* **Technical Utilities:** 
-* **Inventory & QoL Management:**
+* **Performance Optimization:** Includes Sodium, Lithium, and Krypton.
+* **Technical Utilities:** Includes Litematica, MiniHUD etc for Utilities
+* **Inventory & QoL Management:** Includes Inventory Profiles Next and Shulker Box Tooltip for a better Inventory Management.
 
 **Latest release mod list**
 
@@ -56,17 +56,13 @@ This modpack did not effect any Vanilla game Mechanics in anyway
 
 **More details about modpack**
 
-> _**Version**_
->
-> This modpack is for Client side it does not recommend to use for dedicated Server For Server use [Server Version ](https://modrinth.com/project/tmc-box-server)
-
-> _**Contributed to this project**_ 
-> 
-> You can contribute to this project by open pull request in GitHub
-
 > _**Warning**_
 >
 >In some server you may get flagged for unfair advantage modification please read server rules or asking other player options first
+
+> _**Version**_
+>
+> This modpack is for Client side it does not recommend to use for dedicated Server For Server use [Server Version ](https://modrinth.com/project/tmc-box-server)
 
 > _**License**_
 > 
